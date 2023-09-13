@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aramdeveloper1
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Flutter and nodejs.
+- 🌱 I’m currently learning web development, python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 I also have frecodecamp certificate  ... 
 
 <!---
 aramdeveloper1/aramdeveloper1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
